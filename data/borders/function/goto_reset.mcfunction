@@ -1,0 +1,1 @@
+execute if score length a matches 41.. run function borders:reset

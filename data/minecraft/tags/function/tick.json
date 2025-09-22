@@ -1,0 +1,11 @@
+{
+    "values": [
+    	"_main:tick",
+
+	"actionbar:chunk",
+	"borders:goto_reset",
+	"home:trigger_home",
+	"friend:trigger_friend",
+	"friend:set"
+    ]
+}

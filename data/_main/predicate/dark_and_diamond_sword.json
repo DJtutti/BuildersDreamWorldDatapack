@@ -1,0 +1,29 @@
+[
+  {
+    "condition": "minecraft:entity_properties",
+    "entity": "this",
+    "predicate": {
+      "location": {
+        "light": {
+          "light": {
+            "min": 0,
+            "max": 7
+          }
+        }
+      }
+    }
+  },
+  {
+    "condition": "minecraft:entity_properties",
+    "entity": "this",
+    "predicate": {
+      "equipment": {
+        "mainhand": {
+          "items": [
+            "minecraft:diamond_sword"
+          ]
+        }
+      }
+    }
+  }
+]
