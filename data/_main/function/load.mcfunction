@@ -23,6 +23,7 @@ scoreboard objectives add zFriend dummy
 scoreboard objectives add setFriend trigger
 scoreboard objectives add r0Friend dummy
 scoreboard objectives add r1Friend dummy
+scoreboard objectives add super_speed trigger
 
 
 scoreboard players set #2 const 2
