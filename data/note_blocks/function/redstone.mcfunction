@@ -1,0 +1,1 @@
+$setblock ~$(i) ~ ~$(d) repeater[delay=$(r), facing=west]
